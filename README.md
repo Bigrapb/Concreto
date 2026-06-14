@@ -1,6 +1,7 @@
 <div align="center">
   <img <p><img src="https://private-user-images.githubusercontent.com/90824230/607636204-7ad6852d-821e-4038-8fb8-a79ea3bbca83.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE0Njk4MjMsIm5iZiI6MTc4MTQ2OTUyMywicGF0aCI6Ii85MDgyNDIzMC82MDc2MzYyMDQtN2FkNjg1MmQtODIxZS00MDM4LThmYjgtYTc5ZWEzYmJjYTgzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE0VDIwMzg0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2OTkxYTI2YWMzZmYwMGQ5MGZmYjRmNzc2MjIyNWJhYTExNWRiMWI0NjExOGE1NzMwYmEwMGE3ZGE5YTZkMzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.Q7JCyZ6RK1ez8hUyE33cxrdw5TsX6u3kvKw1X6xdcOc" alt="" width="591" height="329"  />
 
+
   # 🏛️ Concreto
 
   **Advanced Design Intelligence for AI Coding Agents**
@@ -8,7 +9,13 @@
   [![npm version](https://img.shields.io/npm/v/concreto?style=flat-square&color=cb3837&logo=npm)](https://www.npmjs.com/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
   [![Architect](https://img.shields.io/badge/Architect-BigRapB-0052CC?style=flat-square&logo=github)](https://github.com/Bigrapb)
-  [![Enterprise](https://img.shields.io/badge/Powered_by-LINKTONIK-000000?style=flat-square)](#)
+  [![Enterprise](https://img.shields.io/badge/Powered_by-LINKTONIK-000000?style=flat-square)](#)``
+  [![GitHub stars](https://img.shields.io/github/stars/Bigrapb/concreto?style=social)](https://github.com/Bigrapb/concreto/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/Bigrapb/concreto?style=social)](https://github.com/Bigrapb/concreto/network/members)
+  [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](#)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+  [![ML-Ready](https://img.shields.io/badge/ML-ONNX_Supported-purple?style=flat-square)](#)
+  
 </div>
 
 <br>
