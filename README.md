@@ -6,7 +6,7 @@
 
   **Advanced Design Intelligence for AI Coding Agents**
 
-  [![npm version](https://img.shields.io/npm/v/concreto?style=flat-square&color=cb3837&logo=npm)](https://www.npmjs.com/)
+ 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
   [![Architect](https://img.shields.io/badge/Architect-BigRapB-0052CC?style=flat-square&logo=github)](https://github.com/Bigrapb)
   [![Enterprise](https://img.shields.io/badge/Powered_by-LINKTONIK-000000?style=flat-square)](#)``
